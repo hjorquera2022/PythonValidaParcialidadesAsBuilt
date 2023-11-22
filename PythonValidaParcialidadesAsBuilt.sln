@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonValidaParcialidadesAsBuilt", "PythonValidaParcialidadesAsBuilt.pyproj", "{AED4433A-3BFD-4C0C-9B20-03C48A0AEE35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED4433A-3BFD-4C0C-9B20-03C48A0AEE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED4433A-3BFD-4C0C-9B20-03C48A0AEE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {287C0C88-60B8-4F8E-911E-4C97A8918374}
+	EndGlobalSection
+EndGlobal
